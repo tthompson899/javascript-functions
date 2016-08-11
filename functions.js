@@ -222,5 +222,6 @@ Javascript Fundamentals Part III:
     }
 
     level_up();
+    
   }
 ninjaContructor();
